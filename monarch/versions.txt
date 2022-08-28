@@ -1,0 +1,4 @@
+monarch_binaries: 1.7.8
+monarch_cli: v1.10.7
+monarch_mac_app: v1.3.2
+min_flutter_version: 2.4.0-4.0.pre
